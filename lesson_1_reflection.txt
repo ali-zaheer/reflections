@@ -5,3 +5,5 @@ Why do you think some version control systems,
 
 checking Git
 
+How can you use the commands git log and git diff to view the history of files?
+
