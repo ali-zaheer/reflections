@@ -10,3 +10,5 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that could break something?
 
 atempt 5, checking git add feature
+
+attempt 6
