@@ -12,3 +12,5 @@ How might using version control make you more confident to make changes that cou
 atempt 5, checking git add feature
 
 attempt 6
+
+checking git-status
