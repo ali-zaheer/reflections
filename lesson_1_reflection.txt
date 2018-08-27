@@ -14,3 +14,8 @@ atempt 5, checking git add feature
 attempt 6
 
 checking git-status
+
+git-diff test
+
+
+testing pull request
